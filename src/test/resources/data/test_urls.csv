@@ -1,0 +1,6 @@
+url,expected_title,expected_description
+https://example.com,Example Domain,This domain is for use in illustrative examples in documents.
+https://www.google.com,Google,Search the world's information, including webpages, images and more.
+https://www.wikipedia.org,Wikipedia,Wikipedia is a free online encyclopedia, created and edited by volunteers around the world.
+https://www.github.com,GitHub: Let’s build from here,GitHub is where over 100 million developers shape the future of software.
+https://www.stackoverflow.com,Stack Overflow - Where Developers Learn,Share & Build Careers
